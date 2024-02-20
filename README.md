@@ -70,11 +70,10 @@ alembic upgrade head
 uvicorn app.main:app --reload
 ```
 - описание эндпоинтов и возможностей доступно по этим ссылкам
-```
-Swagger: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+[Swagger](http://127.0.0.1:8000/docs)
 или
-Redoc: http://127.0.0.1:8000/redoc
-```
+[Redoc](http://127.0.0.1:8000/redoc)
+
 ### Примеры команд для работы с api
 Пример POST-запроса для создания благотворительного проекта:
 ```
@@ -143,4 +142,4 @@ POST ... http://127.0.0.1:8000/google/
 Анна Победоносцева.
 Студент Яндекс Практикума "Python-разаботчик плюс".
 г. Москва.
-GitHub: https://github.com/ZebraHr
+GitHub: [Анна Победоносцева](https://github.com/ZebraHr)

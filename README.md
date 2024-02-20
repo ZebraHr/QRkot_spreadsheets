@@ -71,7 +71,7 @@ uvicorn app.main:app --reload
 ```
 - описание эндпоинтов и возможностей доступно по этим ссылкам
 ```
-Swagger: http://127.0.0.1:8000/docs
+Swagger: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 или
 Redoc: http://127.0.0.1:8000/redoc
 ```
